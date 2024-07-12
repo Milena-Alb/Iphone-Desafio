@@ -5,7 +5,7 @@ Desafio inspirado na palestra Steve Jobs em que ele apresenta o primeiro iPhone.
 <img src="./img/DiagramaUML.png" alt="Diagrama">
 
 ## Projeto
-Neste projeto foi usado a linguagem <span style="background-color: #A9A9A9; color: white; padding: 2px 4px; border-radius: 4px;">.java</span> e um diagrama UML. A partir do diagrama e conceitos de programação orientada a objetos foi criado classes, funções e interfaces que visam assemelhassem ao Iphone.
+Neste projeto foi usado a linguagem <span style="background-color: #A9A9A9; color: white; padding: 2px 4px; border-radius: 4px;">.java</span> e um diagrama UML. A partir do diagrama e conceitos de programação orientada a objetos foi criado classes, funções e interfaces que visam se aparentar com o Iphone.
 
 
 ## Link da palestra
